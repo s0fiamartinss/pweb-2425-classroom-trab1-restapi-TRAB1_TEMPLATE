@@ -1,5 +1,5 @@
 
-const API_URL = 'http://localhost:3001';
+const API_URL = 'https://trab1-restapi-s0fiamartinss.onrender.com';
 const listaAlunos = document.getElementById('lista-alunos');
 const listaCursos = document.getElementById('lista-cursos');
 const formAluno = document.getElementById('form-aluna');
